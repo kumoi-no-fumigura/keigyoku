@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keigyoku",
  "yomi": "けいぎょくわかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文永元年（1264）12月",
+  "author": "宗尊親王（1242〜1274）／撰者 真観",
+  "desc": "鎌倉幕府の将軍宗尊親王の歌を、真観（藤原光俊）が仰せによって撰んだ集。百首歌などから選び、勅撰集に入った歌も多い。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -5747,6 +5752,6 @@
   "poems": 509,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
